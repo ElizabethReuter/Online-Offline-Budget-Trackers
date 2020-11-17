@@ -32,7 +32,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 
 ## Credits
-
+Elizabeth Reuter and Sarah Cox
 
 ## License
 MIT © [Elizabeth Reuter]()
